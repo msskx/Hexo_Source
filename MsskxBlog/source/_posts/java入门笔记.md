@@ -1,8 +1,10 @@
 ---
 title: Java入门笔记
 date: 2021-06-09 16:45:00
+updated: 2021-06-09 17:55:07
 tags: java
 categories: java
+description: 刚学java时候的入门笔记
 ---
 
 # 排版乱就乱了，之前的服务器废了，不得已
