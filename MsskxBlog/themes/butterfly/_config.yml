@@ -91,8 +91,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://github.com/msskx/StudentManagerConsole/blob/main/%E5%A3%81%E7%BA%B8.jpeg?raw=true
-
+index_img: https://pcsdata.baidu.com/thumbnail/c1941e6e1rac64d2d4f1932f7945af2e?fid=1916845080-16051585-1851254204756&rt=pr&sign=FDTAER-yUdy3dSFZ0SVxtzShv1zcMqd-JxQU3NMxqSbaLkhfQWkM2M30ppQ%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=527859489&dp-callid=0&time=1623243600&size=c1600_u1600&quality=100&vuk=-&ft=video
 # If the banner of page not setting, it will show the top_img
 default_top_img: 'linear-gradient( 135deg, #E2B0FF 10%, #9F44D3 100%)'
 
@@ -504,7 +503,7 @@ tag_ui: # 留空或 index
 background:
 
 # Footer Background
-footer_bg: false
+footer_bg: true
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
