@@ -2,8 +2,8 @@
 title: Java入门笔记
 date: 2021-06-09 16:45:00
 updated: 2021-06-09 17:55:07
-tags: java
-categories: java
+tags: Java
+categories: Java
 description: 刚学java时候的入门笔记
 ---
 
@@ -14,12 +14,12 @@ package com.java_01;
 
 public class HelloWorld {
 	public static void main(String[] args){
-	System.out.println("你好，尚柯序")	;
+	System.out.println("你好，尚柯序");
 	}
 
 }
 ```
-[![第一个java留念](http://bk.thrush.xyz/wp-content/uploads/2021/02/屏幕截图-2021-02-28-211202.png "第一个java留念")](http://bk.thrush.xyz/wp-content/uploads/2021/02/屏幕截图-2021-02-28-211202.png "第一个java留念")
+
 **补充**
 通过DOS命令执行
 首先写好一个.java后缀的文件

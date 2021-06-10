@@ -131,7 +131,7 @@ cover:
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  post_page: /img/kkkkk.jpg
 
 # A simple 404 page
 error_404:
@@ -643,7 +643,7 @@ aside:
       link: https://github.com/msskx
   card_announcement:
     enable: true
-    content: 你知道的越多，你不知道的越多，故事若不曲折，又怎能教人成长
+    content: 关山难越，谁悲失路之人；   萍水相逢，尽是他乡之客。
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
