@@ -105,3 +105,8 @@ deploy:
   type: git
   repo: https://github.com/msskx/msskx.github.io.git
   branch: main
+
+search:
+  path: search.xml
+  field: post
+  format: html

@@ -1,9 +1,9 @@
 ---
-title: Java基础笔记
+title: Java入门基础笔记
 date: 2021-06-09 16:45:00
 updated: 2021-06-11 11:55:07
-tags: Java
-categories: Java
+tags: java
+categories: java
 description: 刚学Java时候的基础笔记，包含面向对象之前的一系列基础知识
 ---
 

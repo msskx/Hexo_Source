@@ -56,7 +56,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
 
 # Math (數學)
 # --------------------------------------
@@ -91,7 +91,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://pcsdata.baidu.com/thumbnail/c1941e6e1rac64d2d4f1932f7945af2e?fid=1916845080-16051585-1851254204756&rt=pr&sign=FDTAER-yUdy3dSFZ0SVxtzShv1zcMqd-JxQU3NMxqSbaLkhfQWkM2M30ppQ%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=527859489&dp-callid=0&time=1623243600&size=c1600_u1600&quality=100&vuk=-&ft=video
+index_img: https://z3.ax1x.com/2021/06/12/24wB6O.jpg
 # If the banner of page not setting, it will show the top_img
 default_top_img: 'linear-gradient( 135deg, #E2B0FF 10%, #9F44D3 100%)'
 
@@ -100,21 +100,21 @@ archive_img: 'linear-gradient( 135deg, #E2B0FF 10%, #9F44D3 100%)'
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: 'linear-gradient( 135deg, #E2B0FF 10%, #9F44D3 100%)'
+tag_img: https://z3.ax1x.com/2021/06/12/2402b4.jpg
 
 # The banner image of tag page
 # format:
 #  - tag name: xxxxx
-tag_per_img: 'linear-gradient( 135deg, #E2B0FF 10%, #9F44D3 100%)'
+tag_per_img: https://z3.ax1x.com/2021/06/12/240OVH.jpg
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: 'linear-gradient( 135deg, #E2B0FF 10%, #9F44D3 100%)'
+category_img: https://z3.ax1x.com/2021/06/12/2405P1.jpg
 
 # The banner image of category page
 # format:
 #  - category name: xxxxx
-category_per_img: 'linear-gradient( 135deg, #E2B0FF 10%, #9F44D3 100%)'
+category_per_img: https://z3.ax1x.com/2021/06/12/240xPI.jpg
 
 cover:
   # display the cover or not (是否顯示文章封面)
