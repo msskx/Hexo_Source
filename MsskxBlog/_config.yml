@@ -110,3 +110,7 @@ search:
   path: search.xml
   field: post
   format: html
+# 文章密码
+##
+encrypt:
+  enable: true
